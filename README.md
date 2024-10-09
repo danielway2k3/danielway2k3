@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Daniel Way 😄
 
-<!--
-**Daniz2k3/Daniz2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 A simple guy who loves coding and sharing
+🚀 On my way to MLOps Engineering, Data Scientist
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen-cong-tien-811788218/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/danielway)
+
+## About Me
+
+- 🌆 Based in Thu Duc district, Ho Chi Minh city.
+- 🏢 I'm currently studying in VNU - HCMUS
+- 💼 Currently working on exciting projects in MLOps and Data Scient.
+- 🌱 Always learning and exploring new technologies.
+- 💬 Ask me about CV, LLM, PR,...
+
+
+⭐️ From [DanielWay17](https://github.com/DanielWay17)
